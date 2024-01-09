@@ -3,4 +3,5 @@ dataset.zip
 dt_classifier.pkl
 knn_classifier.pkl
 rf_classifier.pkl
+scaler.pkl
 temp_frames/
